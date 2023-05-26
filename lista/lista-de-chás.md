@@ -1,11 +1,10 @@
-<h1> Lista de chás termogênicos :tea
+<h1> Lista de chás termogênicos 🍵
 
 
 
 
-<h2>Chá verde com limão e gengibre:</h2>
+<h2>Chá verde com limão e gengibre: </h2>
 
-```html
 1 colher de chá de folhas de chá verde
 Suco de meio limão
 1 colher de chá de gengibre ralado
