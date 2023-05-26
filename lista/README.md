@@ -2,6 +2,6 @@
 
 Olá! Esta é minha lista de chás para melhorar sua saúde!
 
-<p>
+<br>
 
 - _Chás termogênicos_
