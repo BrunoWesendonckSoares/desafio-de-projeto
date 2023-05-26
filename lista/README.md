@@ -1,6 +1,6 @@
-<h1>Lista de chás para diversas finalidades!</h1>
+<h1>Lista de chás naturais para saúde!</h1>
 
-Olá! Esta é minha lista de chás naturais para melhorar sua saúde!
+Olá! Esta é minha lista de chás para melhorar sua saúde!
 
 
 
