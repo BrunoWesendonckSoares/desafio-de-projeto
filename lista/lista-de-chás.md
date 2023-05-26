@@ -1,7 +1,6 @@
 <h1> Lista de chás termogênicos 🍵
 
 
-```html
 
 <h2>Chá verde com limão e gengibre: </h2>
 
