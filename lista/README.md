@@ -1,4 +1,4 @@
-<h1>Lista de chás naturai!</h1>
+<h1>Lista de chás naturais!</h1>
 
 Olá! Esta é minha lista de chás para melhorar sua saúde!
 
