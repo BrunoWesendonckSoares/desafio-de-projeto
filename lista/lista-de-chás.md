@@ -10,7 +10,7 @@ Suco de meio limão
 1 colher de chá de gengibre ralado
 1 xícara de água quente
     
-```html
+
 
 <h2>Chá de canela e pimenta caiena:    </h2>
 
@@ -19,7 +19,6 @@ Suco de meio limão
     1 colher de chá de mel
     1 xícara de água quente
     
-    ```html
 
 <h2>Chá de hibisco e laranja:
     1 colher de chá de flores de hibisco
