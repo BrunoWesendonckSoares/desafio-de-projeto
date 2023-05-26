@@ -18,6 +18,8 @@ Suco de meio limão
     1/2 colher de chá de pimenta caiena
     1 colher de chá de mel
     1 xícara de água quente
+    
+    ```html
 
 <h2>Chá de hibisco e laranja:
     1 colher de chá de flores de hibisco
